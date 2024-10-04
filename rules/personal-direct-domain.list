@@ -5,3 +5,7 @@
 +.sankuai.com
 +.neixin.cn
 *.s
+
+*.lan
+*.localhost
+*.local
